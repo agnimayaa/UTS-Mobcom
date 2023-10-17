@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UTS Mobcom</string>
+    <string name="matkul_1">Kewirausahaan</string>
+    <string name="sks1">3 SKS</string>
+    <string name="matkul_2">Teori Bahasa dan Automata</string>
+    <string name="sks2">2 SKS</string>
+    <string name="matkul_3">Pengantar Kecerdasan Buatan</string>
+    <string name="sks3">3 SKS</string>
+    <string name="matkul_4">Mobile Computing</string>
+    <string name="sks4">3 SKS</string>
+    <string name="matkul_5">Data Mining</string>
+    <string name="sks5">3 SKS</string>
+    <string name="matkul_6">Komputer dan Masyarakat</string>
+    <string name="sks6">2 SKS</string>
+    <string name="matkul_7">Metode Penelitian</string>
+    <string name="sks7">2 SKS</string>
+    <string name="matkul_8">Science Technology Engineering Mathematics (STEM)</string>
+    <string name="sks8">3 SKS</string>
+    <string name="matkul_9">Animasi Komputer</string>
+    <string name="sks9">3 SKS</string>
+</resources>
